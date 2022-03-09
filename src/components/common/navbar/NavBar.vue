@@ -19,5 +19,24 @@ export default {
 </script>
 
 <style>
+ .nav-bar {
+     display: flex;
+     height: 44px;
+     line-height: 44px;
+     text-align: center;
+     box-shadow: 0 1px 1px rgba(100, 100, 100, .3);
+ }
 
+ .left,.right {
+     width: 40px;
+   
+ }
+ .center{
+     flex: 1;
+   
+ }
+ .home-nav{
+     background-color: var(--color-tint);
+     color:#fff ;
+ }
 </style>

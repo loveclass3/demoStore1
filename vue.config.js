@@ -10,7 +10,7 @@ module.exports = {
        'assets':'@/assets',
        'common':'@/common',
        'components':'@/components',
-       'network':'@/newwork',
+       'network':'@/network',
        'views':'@/views'
 
      }
